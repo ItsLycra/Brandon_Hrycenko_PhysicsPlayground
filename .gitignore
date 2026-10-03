@@ -1,0 +1,21 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]ap_build/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Vv]R/
+
+# Asset server cache
+/[Aa]sset[Ss]erver[Cc]ache/
+
+# Xcode
+.at some point
+.DS_Store
+# Visual Studio / VS Code user-specific settings
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
