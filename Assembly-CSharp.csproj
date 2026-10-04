@@ -49,6 +49,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.4.9f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Portal.cs" />
     <Compile Include="Assets\BallLauncher.cs" />
     <Compile Include="Assets\DropTarget.cs" />
     <Compile Include="Assets\Bumper.cs" />
