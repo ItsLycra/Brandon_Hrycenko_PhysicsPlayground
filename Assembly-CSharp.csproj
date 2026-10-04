@@ -53,6 +53,7 @@
     <Compile Include="Assets\BallLauncher.cs" />
     <Compile Include="Assets\DropTarget.cs" />
     <Compile Include="Assets\Bumper.cs" />
+    <Compile Include="Assets\FreezeField.cs" />
     <Compile Include="Assets\DeathZone.cs" />
   </ItemGroup>
   <ItemGroup>
